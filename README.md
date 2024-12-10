@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.mos.cms.futurecdn.net/36e80d1ca7e73eddc61c73be74bf7f2d-1200-80.gif)](https://samratfx.vercel.app)
 <h1 align="center">Hi 👋, I'm Samrat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<div style=""></div>
 [![](https://visitcount.itsvg.in/api?id=blackholeofuniverse&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![](https://github-profile-trophy.vercel.app/?username=blackholeofuniverse&theme=dark&no-frame=false&no-bg=true&margin-w=4)
