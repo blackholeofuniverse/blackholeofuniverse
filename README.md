@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.mos.cms.futurecdn.net/36e80d1ca7e73eddc61c73be74bf7f2d-1200-80.gif)](https://samratfx.vercel.com)
+[![MasterHead](https://cdn.mos.cms.futurecdn.net/36e80d1ca7e73eddc61c73be74bf7f2d-1200-80.gif)](https://samratfx.vercel.app)
 <h1 align="center">Hi 👋, I'm Samrat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://samratfx.vercel.com](https://samratfx.vercel.com)
+- 👨‍💻 All of my projects are available at [https://samratfx.vercel.com](https://samratfx.vercel.app)
 
 - 💬 Ask me about **MERN, Typescript**
 
