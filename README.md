@@ -1,8 +1,4 @@
-<div style="text-align: center; width: 100%;">
-<a href="https://samratfx.vercel.com" target="_blank">
-  <img src="https://cdn.mos.cms.futurecdn.net/36e80d1ca7e73eddc61c73be74bf7f2d-1200-80.gif" alt="YouTube Video Thumbnail" style="width: 100%; max-width: 600px;"/>
-</a>
-</div>
+[![MasterHead](https://cdn.mos.cms.futurecdn.net/36e80d1ca7e73eddc61c73be74bf7f2d-1200-80.gif)](https://samratfx.vercel.app) 
 <h1 align="center">Hi 👋, I'm Samrat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
