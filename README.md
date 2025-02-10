@@ -6,14 +6,34 @@
 <h1 align="center">Hi 👋, I'm Samrat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+## About me
+A self-taught **MERN stack developer** driven by a passion for building innovative web apps that tackle real-world challenges and push the boundaries of technology.
 
-<h3 align="left">Connect with me:</h3>
+My coding journey started in **high school**, where curiosity sparked my interest in programming. Since then, I’ve honed my skills in JavaScript and mastered frameworks like React, Next.js, Node.js, and Express. Along the way, I’ve built projects that solve real-world problems, including:
+
+- **TradeQuest**: A platform for practicing stock trading without real financial risk.
+- **Note-taking App**: A streamlined productivity tool that keeps your tasks organized.
+- **Promptopia**: An app to help users generate creative prompts for writing and brainstorming.
+- **Employee Management System**: A tool for easy team collaboration and management.
+
+And many more..
+
+**What drives me?** The challenge of turning ideas into impactful solutions and continuously learning to refine my craft. Lately, I’ve been diving deeper into backend development, focusing on scalability and efficiency.
+
+I’m currently exploring internship opportunities where I can contribute my skills, collaborate with talented professionals, and grow as a software engineer. If you’re looking for someone with curiosity, dedication, and a strong technical foundation, I’d love to connect.
+
+# Let’s start a conversation and see where it takes us!
+Send me an email [here](mailto:samratbandre@gmail.com)
+
+# Connect with me on my socials below
 <p align="left">
-<a href="https://twitter.com/samrat1428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samrat1428" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/om-bandre-758a4425b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-bandre-758a4425b" height="30" width="40" /></a>
+  <a href="https://twitter.com/samrat1428" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="samrat1428" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/om-bandre-758a4425b" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="om-bandre-758a4425b" height="30" width="40" /></a>
+  <a href="https://instagram.com/samrat_1428" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="samrat1428" height="30" width="40" /></a>
+  <a href="https://discord.com/users/1048146813691101236)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="samrat1428" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=typescript" alt="React" width="40" height="40">
@@ -39,5 +59,8 @@
 <div style="display: flex; gap: 10px; justity-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=blackholeofuniverse&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackholeofuniverse&theme=dark&hide_border=false" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackholeofuniverse&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" >
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackholeofuniverse&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" >
+  </p>
+  
 <div/>
