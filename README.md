@@ -35,6 +35,7 @@
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40">
 </div>
 
+## Github Stats
 <div style="display: flex; gap: 10px; justity-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=blackholeofuniverse&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackholeofuniverse&theme=dark&hide_border=false" >
