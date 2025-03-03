@@ -45,6 +45,7 @@ Send me an email [here](mailto:samratbandre@gmail.com)
   <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40">
+  <img src="https://skillicons.dev/icons?i=appwrite" alt="Appwrite" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=github" alt="Github" width="40" height="40">
