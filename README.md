@@ -65,3 +65,8 @@ Send me an email [here](mailto:samratbandre@gmail.com)
   </p>
   
 <div/>
+
+<div>
+    <a href="#"><img alt="Samrat's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=blackholeofuniverse&custom_title=Samrat%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
+<div> 
+
