@@ -58,11 +58,11 @@ Send me an email [here](mailto:samratbandre@gmail.com)
 
 ## Github Stats
 <div style="display: flex; gap: 10px; justify-content: center;">
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=blackholeofuniverse&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackholeofuniverse&theme=dark&hide_border=false" >
-  <p align="center">
+<!--    <p align="center"> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackholeofuniverse&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" >
-  </p>
+<!--   </p> -->
   
 <div/>
 
