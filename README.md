@@ -11,7 +11,7 @@ A self-taught **MERN stack developer** driven by a passion for building innovati
 
 My coding journey started in **high school**, where curiosity sparked my interest in programming. Since then, I’ve honed my skills in JavaScript and mastered frameworks like React, Next.js, Node.js, and Express. Along the way, I’ve built projects that solve real-world problems, including:
 
-- **TradeQuest**: A platform for practicing stock trading without real financial risk.
+- **PaperBull**: A platform for practicing stock trading without real financial risk.
 - **Note-taking App**: A streamlined productivity tool that keeps your tasks organized.
 - **Promptopia**: An app to help users generate creative prompts for writing and brainstorming.
 - **Employee Management System**: A tool for easy team collaboration and management.
