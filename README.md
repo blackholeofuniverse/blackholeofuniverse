@@ -27,7 +27,7 @@ Send me an email [here](mailto:samratbandre@gmail.com)
 
 # Connect with me on my socials below
 <p align="left">
-  <a href="https://twitter.com/samrat1428" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="samrat1428" height="30" width="40" /></a>
+  <a href="https://twitter.com/samratbandre" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="samrat1428" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/om-bandre-758a4425b" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="om-bandre-758a4425b" height="30" width="40" /></a>
   <a href="https://instagram.com/samrat_1428" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="samrat1428" height="30" width="40" /></a>
   <a href="https://discord.com/users/1048146813691101236)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="samrat1428" height="30" width="40" /></a>
