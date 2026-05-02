@@ -36,6 +36,11 @@ Send me an email [here](mailto:samratbandre@gmail.com)
 
 ## Languages and Tools
 
+<div style="display: flex;" >
+   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40">
+   <img src="https://skillicons.dev/icons?i=typescript" alt="React" width="40" height="40">
+</div>
+
 
 <!-- ## Github Stats -->
 <!-- <div style="display: flex; gap: 10px; justify-content: center;">
