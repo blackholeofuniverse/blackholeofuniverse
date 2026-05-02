@@ -28,18 +28,20 @@ Send me an email [here](mailto:samratbandre@gmail.com)
 
 # Connect with me on my socials below
 <p align="left">
-  <a href="https://twitter.com/samratbandre" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="samrat1428" height="30" width="40" /></a>
+  <a href="https://twitter.com/samratbandre">
+    <img src="https://skillicons.dev/icons?i=twitter"/>
+  </a>
   <!-- <a href="https://linkedin.com/in/om-bandre-758a4425b" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="om-bandre-758a4425b" height="30" width="40" /></a> -->
   <!-- <a href="https://instagram.com/samrat_1428" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="samrat1428" height="30" width="40" /></a> -->
-  <a href="https://discord.com/users/1048146813691101236)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="samrat1428" height="30" width="40" /></a>
+  <a href="https://discord.com/users/1048146813691101236">
+    <img src="https://skillicons.dev/icons?i=discord"/>
+  </a>
 </p>
 
 ## Languages and Tools
-
-<div style="display: flex;" >
-   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40">
-   <img src="https://skillicons.dev/icons?i=typescript" alt="React" width="40" height="40">
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs,express,mongodb,firebase,appwrite,tailwind,git,github,figma,docker,flutter,postman,python" />
+</p>
 
 
 <!-- ## Github Stats -->
