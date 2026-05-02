@@ -35,7 +35,7 @@ Send me an email [here](mailto:samratbandre@gmail.com)
 </p>
 
 ## Languages and Tools
-    <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=typescript" alt="React" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40">
