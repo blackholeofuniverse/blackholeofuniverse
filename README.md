@@ -35,27 +35,7 @@ Send me an email [here](mailto:samratbandre@gmail.com)
 </p>
 
 ## Languages and Tools
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=typescript" alt="React" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=next" alt="Next" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=appwrite" alt="Appwrite" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=github" alt="Github" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40">
-</div>
+
 
 <!-- ## Github Stats -->
 <!-- <div style="display: flex; gap: 10px; justify-content: center;">
