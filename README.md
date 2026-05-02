@@ -35,7 +35,7 @@ Send me an email [here](mailto:samratbandre@gmail.com)
 </p>
 
 ## Languages and Tools
-<div style="display: flex; gap: 10px; align-items: center;">
+    <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=typescript" alt="React" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40">
@@ -57,15 +57,15 @@ Send me an email [here](mailto:samratbandre@gmail.com)
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40">
 </div>
 
-## Github Stats
-<div style="display: flex; gap: 10px; justify-content: center;">
+<!-- ## Github Stats -->
+<!-- <div style="display: flex; gap: 10px; justify-content: center;">
  
-  <img src="https://github-readme-stats.vercel.app/api?username=blackholeofuniverse&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" >
-<!--    <p align="center"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=blackholeofuniverse&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="" > 
+    <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackholeofuniverse&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" >
-<!--   </p> -->
+ </p>
   
-<div/>
+<div/>  -->
 
 <div>
     <!-- <a href="#"><img alt="Samrat's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=blackholeofuniverse&custom_title=Samrat%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a> -->
